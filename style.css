@@ -1,3 +1,31 @@
 p {
-    background-color: rgb(221, 127, 198);
+    font-size: medium;
+}
+
+body {
+    margin: 0 auto;
+    max-width: 70em;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    line-height: 1.5;
+    padding: 4em 1em;
+    color: #555;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 1em;
+    padding-top: 1em;
+    color: #333;
+}
+
+code {
+    padding: 2px 4px;
+    vertical-align: text-bottom;
+    background: #eee;
+}
+
+.picture {
+    
+    left: 1000px;
+    position: absolute;
 }
